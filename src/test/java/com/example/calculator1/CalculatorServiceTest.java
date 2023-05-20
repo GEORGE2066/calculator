@@ -1,7 +1,7 @@
-package com.example.calculator;
+package com.example.calculator1;
 
-import com.example.calculator.exception.DivByZeroException;
-import com.example.calculator.service.CalculatorService;
+import com.example.calculator1.exception.DivByZeroException;
+import com.example.calculator1.service.CalculatorService;
 import org.junit.jupiter.api.Assertions;
 
 public class CalculatorServiceTest {

@@ -1,6 +1,6 @@
-package com.example.calculator.service;
+package com.example.calculator1.service;
 
-import com.example.calculator.exception.DivByZeroException;
+import com.example.calculator1.exception.DivByZeroException;
 import org.springframework.stereotype.Service;
 
 @Service
